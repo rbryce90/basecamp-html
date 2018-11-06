@@ -1,0 +1,131 @@
+body{
+  height: 927.5px;
+  width: 720px;
+}
+.navbar {
+  height: 5%;
+  background-color:rgb(112,112,112);
+  position: relative;
+  padding: 2%;
+
+  overflow: hidden;
+}
+.navbar div{
+  width: 48.2%;
+  height: 75%;
+  position: relative;
+  float: left;
+  top: 0px;
+  padding: 10px;
+  padding: .7%;
+
+}
+.navbar  h2{
+  color: white;
+  font-family: "arial narrow";
+  position: relative;
+  font-size: 30px;
+  margin: 1%;
+  padding-left: 5%;
+}
+.navbar li {
+  list-style-type: none;
+  color: white;
+  float: right;
+  margin-right: 30px;
+}
+.titleBar {
+  height: 22.5%;
+  background-color: black;
+  position: relative;
+  width: auto;
+
+}
+.titleBar > h1{
+
+  color: rgb(233,224,95);
+  margin: auto;
+  font-family: "arial narrow";
+  font-size: 40px;
+  padding: 10%;
+  text-align: center;
+
+}
+.boxDiv{
+  height: 22.5%;
+  width: 100%;
+  position: relative;
+  padding-left: 5%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+.greenBox{
+
+  height: 100%;
+  width: 27%;
+  background-color: rgb(164,255,215);
+  float: left;
+  position: relative;
+  border-radius: 20px;
+  margin-left: 0%;
+
+}
+.greenBox2{
+
+  height: 100%;
+  width: 27%;
+  background-color: rgb(164,255,215);
+  float: left;
+  position: relative;
+  border-radius: 20px;
+  margin-left: 5%;
+
+}
+
+.orangeBox{
+ background-color: rgb(255,195,108);
+ height: 100%;
+ width: 43%;
+ position: relative;
+ float: left;
+}
+.orangeBox2{
+ background-color: rgb(255,195,108);
+ height: 100%;
+ width: 43%;
+ position: relative;
+ float: left;
+ margin-left: 5%;
+}
+.boxes{
+  height: 22.5%;
+  width: 100%;
+  position: relative;
+  padding-left: 11.5%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+.box{
+  height: 90%;
+  width: 33%;
+  position: relative;
+  float: left;
+
+}
+.box p{
+  font-size: 12px
+}
+.box2{
+  height: 90%;
+  width: 33%;
+  position: relative;
+  float: left;
+  margin-left: 12%;
+
+}
+.footer {
+  height: 5%;
+  width: 100%;
+  background-color: rgb(58,58,86);
+  position: relative;
+}
